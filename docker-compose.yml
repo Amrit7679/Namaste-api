@@ -1,0 +1,51 @@
+
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000" # Map host port 8000 to container port 8000
+    environment:
+      # Load environment variables from .env file
+      - ICD11_CLIENT_ID=${ICD11_CLIENT_ID}
+      - ICD11_CLIENT_SECRET=${ICD11_CLIENT_SECRET}
+      - NAMASTE_API_KEY=${NAMASTE_API_KEY}
+      # - REDIS_URL=${REDIS_URL}
+      # - MONGODB_URL=${MONGODB_URL}
+      - API_SECRET_KEY=${API_SECRET_KEY}
+      - ENVIRONMENT=${ENVIRONMENT}
+      - LOG_LEVEL=${LOG_LEVEL}
+    volumes:
+      - ./logs/app/logs:/app/logs # Mount a volume for logs if needed
+    # depends_on:
+      # Add dependencies here if using Redis, MongoDB etc.
+      # - redis
+      # - mongo
+    restart: unless-stopped
+
+  # Example for Redis (if you were to use it)
+  # redis:
+  #   image: redis:7-alpine
+  #   ports:
+  #     - "6379:6379"
+  #   volumes:
+  #     - redis_data:/data
+  #   restart: unless-stopped
+
+  # Example for MongoDB (if you were to use it)
+  # mongo:
+  #   image: mongo:6
+  #   ports:
+  #     - "27017:27017"
+  #   environment:
+  #     MONGO_INITDB_DATABASE: healthcare_api
+  #   volumes:
+  #     - mongo_data:/data/db
+  #   restart: unless-stopped
+
+# volumes:
+  # redis_data:
+  # mongo_data:
+  # Add other volumes if needed
